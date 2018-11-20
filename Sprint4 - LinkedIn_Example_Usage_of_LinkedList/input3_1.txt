@@ -1,0 +1,7 @@
+6
+Sam|Kate
+Allen|Smith
+Sierra|Kate
+Taylor|Smith
+Taylor|Sam
+Sam|Allen
